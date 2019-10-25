@@ -1,6 +1,6 @@
 {
-  "name": "gatsby-remark-custom-image-component",
-  "version": "1.0.1",
+  "name": "@hitchcott/gatsby-remark-custom-image-component",
+  "version": "1.0.2",
   "description": "Locate `gatsby-plugin-sharp` processed images for custom markdown components",
   "main": "index.js",
   "scripts": {
